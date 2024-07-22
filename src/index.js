@@ -25,13 +25,10 @@ function App() {
           </Routes>
         </main>
         <footer>
-          <a
-            href="https://github.com/your-repo"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            View on GitHub
-          </a>
+          <p>
+          Check out the code behind this website on
+          <a href="https://github.com/jmaddox5/Project-4"> GitHub</a>.
+          </p>
         </footer>
       </div>
     </Router>
